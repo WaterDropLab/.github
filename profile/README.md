@@ -1,16 +1,18 @@
 ### 组织介绍
 我们专注于前端开发、软件设计。成员均为05后。
-![水滴实验室](https://foruda.gitee.com/images/1703914579847326539/9f4c38ba_13910698.png "Logo_水滴实验室.png")
+![冰软](https://gitee.com/pinsoft/PinSoft-Studio/raw/master/LOGOs/logo-with-text/pstd_svg.svg "pstd_svg.svg")
 
 ### 如何加入
-请发送申请邮件至 WaterDropLab@outlook.com
+请发送申请邮件至 PinSoftStudio@outlook.com
 
+### 捐助
+如果您觉得我们的开源软件对你有所帮助，请扫下方二维码打赏我们一杯咖啡。
 
 ### 联系
 网站：
-https://waterdroplab.gitee.io
+https://pinssoftstudio.github.io
 邮箱:
-WaterDropLab@outlook.com
+PinSoftStudio@outlook.com
 
 ### 组织详细介绍
 ### 成立时间：
@@ -23,14 +25,15 @@ WaterDropLab@outlook.com
 - 2020年5月1日，该组织的第一个软件"PowerSettings V.5.0.0"完工。
 - 2021年9月1日，因升学等原因，该组织由"安徽省天长市实验中学"迁址至"安徽省天长中学"，王克硕仍为该组织成员之一。
 - 2022年7月14日,李家乐正式成为该组织的成员。
-- 2023年6月16日,谭景元和NB-Group正式成为该组织的成员。
+- 2023年6月16日,谭景元和梁皓文正式成为该组织的成员。
+- 2024年6月16日，“水滴实验室”更名为“冰软工作室”。
 ### 现有成员：
 程旭 王克硕 谈致远 李家乐 崇李浩轩 谭景元 梁皓文
 ### 组织的主要活动：
 计算机软件设计、图片设计、文字编辑、计算机病毒试验、网页开发、高级编程语言学习与讨论(Visual Basic、Python、Visual C++、C++、HTML、JavaScript、Visual Basic Script...)、Windows操作系统的探索、批处理脚本的开发、高质量软件的收集...
 ### 组织的主要需求：
 - 成员计算机知识的不断丰富。
-- 计算机大佬们的加入(有兴趣的请和安徽天长中学2021级13班的程旭联系) 。
+- 计算机大佬们的加入(有兴趣的发邮件至 PinSoftStudio@outlook.com) 。
 ### 组织的软件及脚本：
  安徽省天长中学运动会相册网站(https://tzydh.github.io )、水滴时钟(已更新至V.1.0.3 ) PowerSetting(已更新至V.9.3.0 正式版) 、磁盘修复(已更新至V.1.0.0) 、定时关机 (已更新至V.2.0.0) 、e-Learning Class Password Master(V.1.0.0)、高级命令(V.2.0 DOS脚本版)、Pcfly病毒(V.2.0 文件夹伪装者) 、计算机(病毒V.1.0)、Emoji Viewer(V.1.0 网页版)...
 ### 组织成就：
